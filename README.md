@@ -24,8 +24,8 @@ The following important libraries were used for this project:
 
 # Prediction
  - The model was used to predict the survival status of passengers in the test set.
- - The predicted results were printed using loRe.predict(X_test).
- - The actual target values in the test set were printed using Y_test.
+ - The predicted results were printed using loRe.predict(a_test).
+ - The actual target values in the test set were printed using b_test.
 
 # Important
 This model was developed in PyCharm Community Edition and then copied to Jupyter Notebook
